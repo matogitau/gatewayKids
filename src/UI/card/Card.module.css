@@ -1,0 +1,9 @@
+.Card {
+  /* min-width: 5rem; */
+  /* height: 7rem; */
+  display: grid;
+  border: 2.5px solid rgb(234, 250, 5);
+  border-radius: 10px;
+  box-shadow: 0.1rem 0.1rem 0.1rem rgba(223, 238, 8, 0.9);  
+  
+}
